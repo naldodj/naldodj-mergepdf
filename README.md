@@ -1,5 +1,7 @@
 # 📄 PowerShell PDF Merger
 
+![ChatGPT Image 7 de mai  de 2025, 07_53_12](https://github.com/user-attachments/assets/4734550a-1f9b-4fc3-a071-188de2075113)
+
 Este repositório contém dois scripts em PowerShell para mesclar arquivos PDF utilizando módulos distintos:  
 - [`mergepdf.ps1`](#1-mergepdfps1): Usa o módulo [PsPdf](https://www.powershellgallery.com/packages/PsPdf)  
 - [`mergepdf-with-progress.ps1`](#2-mergepdf-with-progressps1): Usa o módulo [PSWritePDF](https://github.com/EvotecIT/PSWritePDF)
