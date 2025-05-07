@@ -261,4 +261,4 @@ Scripts desenvolvidos para automatizar a preparação de documentos acadêmicos.
 
 ## 📄 Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE.md` para mais detalhes.
+Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
